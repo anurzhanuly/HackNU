@@ -7,3 +7,7 @@
  */
 
 // root - password for MySQL
+
+$aConfig = [];
+
+$aConfig['database_connection_string'] = "";
