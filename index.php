@@ -5,3 +5,6 @@
  * Date: 3/20/2021
  * Time: 2:37 PM
  */
+
+require_once realpath('vendor/autoload.php');
+

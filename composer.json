@@ -1,0 +1,16 @@
+{
+    "name": "hacknu/habits",
+    "description": "HackNU project",
+    "authors": [
+        {
+            "name": "a.nurzhanuly",
+            "email": "a.nurzhanuly@documentolog.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/"
+        }
+    }
+}
